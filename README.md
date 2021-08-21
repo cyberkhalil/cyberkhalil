@@ -13,4 +13,4 @@ I'm Mahmoud Khalil, an Information Security Engineer.
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=khalil2535.khalil2535&style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=khalil2535.khalil2535&style=flat-square)
